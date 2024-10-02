@@ -16,8 +16,8 @@ Screenshot
 
 
 Links
-Solution URL: Add solution URL here
-Live Site URL: Add live site URL here
+Solution URL: https://afrad07.github.io/qr-code-challenge-by-frontend-mentor/
+Live Site URL: https://afrad07.github.io/qr-code-challenge-by-frontend-mentor/
 
 My process:
 
