@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@700&display=swap');
+
+body {
+  background-color: #d6e2f0;
+  font-family: outfit;
+  font-size: 15px;
+}
+
+div {
+  width: 225px;
+  height: 350px;
+  background-color: white;
+  border-radius: 10px;
+  position: relative;
+  left: 800px;
+  top: 150px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  position: relative;
+  top: 13px;
+  left: 13px;
+  border-radius: 10px;
+}
+
+p {
+  text-align: center;
+}
+
+.head {
+  color: hsl(218, 44%, 22%);
+  font-weight: 700;
+}
+
+.para {
+  color: hsl(216, 15%, 48%);
+  font-weight: 400;
+  font-size: 13px;
+}
+
+@media (max-width: 1170px) {
+  div {
+    position: relative;
+    left: 500px;
+  }
+}
+
+@media (max-width: 1050px) {
+  div {
+    position: relative;
+    left: 430px;
+  }
+}
+
+@media (max-width: 920px) {
+  div {
+    position: relative;
+    left: 350px;
+  }
+}
+
+@media (max-width: 700px) {
+  div {
+    position: relative;
+    left: 240px;
+  }
+}
+
+@media (max-width: 600px) {
+  div {
+    position: relative;
+    left: 175px;
+  }
+}
+
+@media (max-width: 500px) {
+  div {
+    position: relative;
+    left: 130px;
+  }
+}
+
+@media (max-width: 400px) {
+  div {
+    position: relative;
+    left: 125px;
+  }
+}
+
+@media (max-width: 375px) {
+  div {
+    position: relative;
+    left: 0px;
+  }
+}
